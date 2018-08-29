@@ -1,0 +1,14 @@
+﻿{
+	"name" : "rex2d",
+	"description" : "Rex2D - A library for Rextester api in D Lanf",
+	"authors": [
+		"Ernesto Castellotti <erny.castell@gmail.com"
+	],
+	"copyright": "Copyright C 2018 Ernesto Castellotti <erny.castell@gmail.com",
+	"license": "LGPL 3",
+	"targetType": "library",
+	"buildOptions": [
+		"releaseMode",
+		"optimize"
+	]
+}
